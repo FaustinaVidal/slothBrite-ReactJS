@@ -10,11 +10,6 @@ export const Secciones = () => {
             </li>
             <li className="nav-item">
             <button type="button" className="btn btn-primary">
-                Tienda
-            </button>
-            </li>
-            <li className="nav-item">
-            <button type="button" className="btn btn-primary">
                 Nosotros
             </button>
             </li>
