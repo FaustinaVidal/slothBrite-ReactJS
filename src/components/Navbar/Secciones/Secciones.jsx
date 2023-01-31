@@ -5,22 +5,22 @@ export const Secciones = () => {
         <>
             <li className="nav-item">
             <button type="button" className="btn btn-primary">
-                Home
+                Inicio
             </button>
             </li>
             <li className="nav-item">
             <button type="button" className="btn btn-primary">
-                Features
+                Tienda
             </button>
             </li>
             <li className="nav-item">
             <button type="button" className="btn btn-primary">
-                Pricing
+                Nosotros
             </button>
             </li>
             <li className="nav-item">
             <button type="button" className="btn btn-primary">
-                About
+                Contacto
             </button>
             </li>
         </>
