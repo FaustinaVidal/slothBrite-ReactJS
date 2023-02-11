@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Cráneo Wizard Gorro Morado",
+        "modelo": "Gorro",
+        "precio": 626.53,
+        "stock": 15,
+        "imgDelante": "craneoGorroVioleta.PNG"
+     },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Cráneo Gorro Gris",
+        "modelo": "Gorro",
+        "precio": 626.53,
+        "stock": 0,
+        "imgDelante": "craneoGorroGris.PNG"
+    }, 
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Cráneo Gorro Negro",
+        "modelo": "Gorro",
+        "precio": 626.53,
+        "stock": 0,
+        "imgDelante": "craneoGorroNegro.PNG"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombre": "Cráneo Remera Negra",
+        "modelo": "Remera",
+        "precio": 835.51,
+        "stock": 6,
+        "imgDelante": "craneoRemeraNegraDelante.PNG",
+        "imgDetras": "craneoRemeraNegraDetras.PNG"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Cráneo Remera Blanca",
+        "modelo": "Remera",
+        "precio": 835.15,
+        "stock": 10,
+        "imgDelante": "craneoRemeraBlancaDelante.PNG",
+        "imgDetras": "craneoRemeraBlancaDetras.PNG"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Perezoso Brillante Remera Negra",
+        "modelo": "Remera",
+        "precio": 835.51,
+        "stock": 23,
+        "imgDelante": "perezosoBrillanteRemeraNegraDelante.PNG",
+        "imgDetras": "perezosoBrillanteRemeraNegraDetras.PNG"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Sloth Brite Remera Morada",
+        "modelo": "Remera",
+        "precio": 835.51,
+        "stock": 4,
+        "imgDelante": "slothBriteRemeraVioletaDelante.PNG",
+        "imgDetras": "slothBriteRemeraVioletaDetras.PNG"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre": "Sloth Brite Remera Negra",
+        "modelo": "Remera",
+        "precio": 835.51,
+        "stock": 16,
+        "imgDelante": "slothBriteRemeraNegraDelante.PNG",
+        "imgDetras": "slothBriteRemeraNegraDetras.PNG"
+    },
+    {
+        "id": 9,
+        "idCategoria": 2,
+        "nombre": "Cráneo Wizard Remera Bleached",
+        "modelo": "Remera",
+        "precio": 1044.49,
+        "stock": 35,
+        "imgDelante": "craneoRemeraWizardDelante.PNG"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Cráneo Wizard Canguro Bleached",
+        "modelo": "Canguro",
+        "precio": 1880.41,
+        "stock": 3,
+        "imgDelante": "craneoCanguroWizardDelante.PNG",
+        "imgDetras": "craneoCanguroWizardDetras.PNG"
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre": "Cráneo Canguro Negro",
+        "modelo": "Canguro",
+        "precio": 1671.44,
+        "stock": 18,
+        "imgDelante": "craneoCanguroNegroDelante.PNG",
+        "imgDetras": "craneoCanguroNegroDetras.PNG"
+    },
+    {
+        "id": 12,
+        "idCategoria": 3,
+        "nombre": "Cráneo Canguro Gris Jaspeado",
+        "modelo": "Canguro",
+        "precio": 1671.44,
+        "stock": 2,
+        "imgDelante": "craneoCanguroGrisDelante.PNG",
+        "imgDetras": "craneoCanguroGrisDetras.PNG"
+    },
+    {
+        "id": 13,
+        "idCategoria": 3,
+        "nombre": "Perezoso Canguro Negro",
+        "modelo": "Canguro",
+        "precio": 1671.44,
+        "stock": 9,
+        "imgDelante": "perezosoBrillanteCanguroNegroDelante.PNG",
+        "imgDetras": "perezosoBrillanteCanguroNegroDetras.PNG"
+    },
+    {
+        "id": 14,
+        "idCategoria": 3,
+        "nombre":"Sloth Brite Canguro Negro",
+        "modelo": "Canguro",
+        "precio": 1671.44,
+        "stock": 8,
+        "imgDelante": "slothBriteCanguroNegroDelante.PNG",
+        "imgDetras": "slothBriteCanguroNegroDetras.PNG"
+    },
+    {
+        "id": 15,
+        "idCategoria": 3,
+        "nombre": "Sloth Brite Canguro Gris",
+        "modelo": "Canguro",
+        "precio": 1671.44,
+        "stock": 13,
+        "imgDelante": "slothBriteCanguroGrisDelante.PNG",
+        "imgDetras": "slothBriteCanguroGrisDetras.PNG"
+    },
+    {
+        "id": 16,
+        "idCategoria": 4,
+        "nombre": "Cráneo Campera Negra",
+        "modelo": "Campera",
+        "precio": 1671.44,
+        "stock": 12,
+        "imgDelante": "craneoCamperaNegraDelante.PNG",
+        "imgDetras": "craneoCamperaNegraDetras.PNG"
+    },
+    {
+        "id": 17,
+        "idCategoria": 4,
+        "nombre": "Cráneo Campera Blanca",
+        "modelo": "Campera",
+        "precio": 1671.44,
+        "stock": 8,
+        "imgDelante": "craneoCamperaBlancaDelante.PNG",
+        "imgDetras": "craneoCamperaBlancaDetras.PNG"
+    }
+]
