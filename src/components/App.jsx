@@ -7,12 +7,11 @@ import {ItemListContainer} from './ItemListContainer/ItemListContainer';
 import {ItemCount} from './ItemCount/ItemCount';
 
 
-
 export const App = () => {
   return (
     <>
     <Navbar logo={"logo"}/>
-    <ItemListContainer greeting={"Sloth Brite"}/>
+    <ItemListContainer/>
     <ItemCount valorInicial={1} stock={10} />
     </>
   );
