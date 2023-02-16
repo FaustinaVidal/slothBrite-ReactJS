@@ -9,12 +9,15 @@ export const ItemCount = ({valorInicial,stock}) => {
     const restar = () => contador > valorInicial && setContador(contador -1)
     const sumar = () => contador < stock && setContador(contador +1)
 
+    if (stock) {
     return (
-        <div>
-            <button type="button" class="btn btn-secondary" onClick={() => restar()}>-</button>
-            {contador}
-            <button type="button" class="btn btn-secondary" onClick={() => sumar()}>+</button>
-            <button type="button" class="btn btn-secondary">Agregar al Carrito</button>
-        </div>
-    );
+            <div>
+                <button type="button" className="btn btn-secondary" onClick={() => restar()}>-</button>
+                {contador}
+                <button type="button" className="btn btn-secondary" onClick={() => sumar()}>+</button>
+                <button type="button" className="btn btn-secondary">Agregar al Carrito</button>
+            </div>
+
+);
+}
 }

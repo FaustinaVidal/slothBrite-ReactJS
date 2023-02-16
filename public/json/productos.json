@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": 1,
+        "idCategoria": "Gorros",
         "nombre": "Cráneo Wizard Gorro Morado",
         "modelo": "Gorro",
         "precio": 626.53,
@@ -10,7 +10,7 @@
      },
     {
         "id": 2,
-        "idCategoria": 1,
+        "idCategoria": "Gorros",
         "nombre": "Cráneo Gorro Gris",
         "modelo": "Gorro",
         "precio": 626.53,
@@ -19,7 +19,7 @@
     }, 
     {
         "id": 3,
-        "idCategoria": 1,
+        "idCategoria": "Gorros",
         "nombre": "Cráneo Gorro Negro",
         "modelo": "Gorro",
         "precio": 626.53,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Cráneo Remera Negra",
         "modelo": "Remera",
         "precio": 835.51,
@@ -38,7 +38,7 @@
     },
     {
         "id": 5,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Cráneo Remera Blanca",
         "modelo": "Remera",
         "precio": 835.15,
@@ -48,7 +48,7 @@
     },
     {
         "id": 6,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Perezoso Brillante Remera Negra",
         "modelo": "Remera",
         "precio": 835.51,
@@ -58,7 +58,7 @@
     },
     {
         "id": 7,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Sloth Brite Remera Morada",
         "modelo": "Remera",
         "precio": 835.51,
@@ -68,7 +68,7 @@
     },
     {
         "id": 8,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Sloth Brite Remera Negra",
         "modelo": "Remera",
         "precio": 835.51,
@@ -78,7 +78,7 @@
     },
     {
         "id": 9,
-        "idCategoria": 2,
+        "idCategoria": "Remeras",
         "nombre": "Cráneo Wizard Remera Bleached",
         "modelo": "Remera",
         "precio": 1044.49,
@@ -87,7 +87,7 @@
     },
     {
         "id": 10,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre": "Cráneo Wizard Canguro Bleached",
         "modelo": "Canguro",
         "precio": 1880.41,
@@ -97,7 +97,7 @@
     },
     {
         "id": 11,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre": "Cráneo Canguro Negro",
         "modelo": "Canguro",
         "precio": 1671.44,
@@ -107,7 +107,7 @@
     },
     {
         "id": 12,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre": "Cráneo Canguro Gris Jaspeado",
         "modelo": "Canguro",
         "precio": 1671.44,
@@ -117,7 +117,7 @@
     },
     {
         "id": 13,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre": "Perezoso Canguro Negro",
         "modelo": "Canguro",
         "precio": 1671.44,
@@ -127,7 +127,7 @@
     },
     {
         "id": 14,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre":"Sloth Brite Canguro Negro",
         "modelo": "Canguro",
         "precio": 1671.44,
@@ -137,7 +137,7 @@
     },
     {
         "id": 15,
-        "idCategoria": 3,
+        "idCategoria": "Canguros",
         "nombre": "Sloth Brite Canguro Gris",
         "modelo": "Canguro",
         "precio": 1671.44,
@@ -147,7 +147,7 @@
     },
     {
         "id": 16,
-        "idCategoria": 4,
+        "idCategoria": "Camperas",
         "nombre": "Cráneo Campera Negra",
         "modelo": "Campera",
         "precio": 1671.44,
@@ -157,7 +157,7 @@
     },
     {
         "id": 17,
-        "idCategoria": 4,
+        "idCategoria": "Camperas",
         "nombre": "Cráneo Campera Blanca",
         "modelo": "Campera",
         "precio": 1671.44,

@@ -1,18 +1,23 @@
 import './App.css';
 import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 //components
-import {Navbar} from './Navbar/Navbar';
-import {ItemListContainer} from './ItemListContainer/ItemListContainer';
-import {ItemCount} from './ItemCount/ItemCount';
-
+import { Navbar } from './Navbar/Navbar';
+import { ItemListContainer } from './ItemListContainer/ItemListContainer';
+import { ItemDetailContainer } from './ItemDetailContainer/ItemDetailContainer';
 
 export const App = () => {
   return (
     <>
-    <Navbar logo={"logo"}/>
-    <ItemListContainer/>
-    <ItemCount valorInicial={1} stock={10} />
+      <BrowserRouter>
+        <Navbar />
+        <Routes>
+          <Route path='/' element={<ItemListContainer />} />
+          <Route path='/categoria/:idCategoria' element={<ItemListContainer />} />
+          <Route path='/item/:id' element={<ItemDetailContainer />} />
+        </Routes>
+      </BrowserRouter>
     </>
-  );
+  )
 }

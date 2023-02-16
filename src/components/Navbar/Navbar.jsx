@@ -8,7 +8,7 @@ export const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          <img src="./img/logoSlothBrite.PNG" width={100} height="auto" alt="Logo" />
+          <img src="/img/logoSlothBrite.PNG" width={100} height="auto" alt="Logo" />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
