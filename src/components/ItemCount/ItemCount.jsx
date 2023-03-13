@@ -2,7 +2,7 @@ import React from 'react'
 import {useState} from 'react'
 
 
-export const ItemCount = ({valorInicial,stock}) => {
+export const ItemCount = ({valorInicial,stock, onAdd}) => {
 
     const [contador, setContador] = useState(valorInicial) //Defino un estado con valor inicial 1
 
@@ -15,7 +15,7 @@ export const ItemCount = ({valorInicial,stock}) => {
                 <button type="button" className="btn btn-secondary" onClick={() => restar()}>-</button>
                 {contador}
                 <button type="button" className="btn btn-secondary" onClick={() => sumar()}>+</button>
-                <button type="button" className="btn btn-secondary">Agregar al Carrito</button>
+                <button type="button" className="btn btn-secondary" onClick={() => onAdd(contador)}>Agregar al Carrito</button>
             </div>
 
 );

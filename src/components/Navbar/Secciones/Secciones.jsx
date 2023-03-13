@@ -12,16 +12,16 @@ export const Secciones = () => {
                 </Link>
             </li>
             <li className="nav-item">
-                <Link className='nav-link' to={'/Nosotros'}>
+                <Link className='nav-link' to={'/Contacto'}>
                     <button type="button" className="btn btn-primary">
-                        Nosotros
+                        Contacto
                     </button>
                 </Link>
             </li>
             <li className="nav-item">
-                <Link className='nav-link' to={'/Contacto'}>
+                <Link className='nav-link' to={'/Terminos_y_condiciones'}>
                     <button type="button" className="btn btn-primary">
-                        Contacto
+                        Términos y condiciones
                     </button>
                 </Link>
             </li>

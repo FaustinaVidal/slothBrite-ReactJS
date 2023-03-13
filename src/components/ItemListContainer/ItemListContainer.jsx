@@ -6,23 +6,24 @@ import { useParams } from 'react-router-dom';
 import { ItemList } from '../ItemList/ItemList.jsx';
 
 export const ItemListContainer = () => {
-    const { idCategoria } = useParams()
+    const { categoria } = useParams()
     const [productos, setProductos] = useState([])
 
     useEffect( () => {
-        if (idCategoria) {
+        if (categoria) {
             consultarBDD('../json/productos.json').then(products => {
-                const prods = products.filter(prod => prod.idCategoria === idCategoria)
+                const prods = products.filter(prod => prod.categoria === categoria)
                 const items = ItemList({prods})
                 setProductos(items)
             })
         } else {
-            consultarBDD('./json/productos.json').then(prods => {
+            consultarBDD('../json/productos.json').then(prods => {
+                console.log(prods)
                 const items = ItemList({prods})
                 setProductos(items)
             })
         }
-    }, [idCategoria])
+    }, [categoria])
     return (
         <div className='row cardProductos'>
             {productos}
