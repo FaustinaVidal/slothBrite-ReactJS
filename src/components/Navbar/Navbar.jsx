@@ -3,10 +3,15 @@ import { CartWidget } from '../CartWidget/CartWidget';
 import { Categorias } from './Categorias/Categorias';
 import { Secciones } from './Secciones/Secciones';
 import { Link } from 'react-router-dom'
+import { ButtonDarkMode } from './ButtonDarkMode/ButtonDarkMode';
+
+//Context
+import { useDarkModeContext } from '../../context/DarkModeContext';
 
 export const Navbar = () => {
+  const {darkMode} = useDarkModeContext()
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className={`navbar navbar-expand-lg navbar-dark ${darkMode ? "bg-dark" : "bg-primary"}`}>
       <div className="container-fluid">
         <Link className='nav-link' to={'/'} >
           <img src="/img/logoSlothBrite.PNG" width={100} height="auto" alt="Logo" />
@@ -20,6 +25,7 @@ export const Navbar = () => {
             <Categorias />
           </ul>
           <CartWidget cantidadCarrito={0} />
+          <ButtonDarkMode/>
         </div>
       </div>
     </nav>
