@@ -2,7 +2,11 @@ import React from 'react';
 import { useRef } from 'react';
 import { toast } from 'react-toastify';
 
-export const Contacto = () => {
+//Context
+import { useDarkModeContext } from '../../context/DarkModeContext';
+
+export const Contacto = React.memo(() => {
+    const {darkMode} = useDarkModeContext()
     const datosFormContacto = useRef()
     const consultarFormContacto = (e) => {
         e.preventDefault()
@@ -31,10 +35,10 @@ export const Contacto = () => {
                     <label htmlFor="mensaje" className='form-label'>Mensaje</label>
                     <input type="text" className='form-control' name='mensaje' required/>
                 </div>
-                <button type='submit' className='btn btn-primary'>Finalizar compra</button>
+                <button type='submit' className={`btn ${darkMode ? "btn-secondary" : "btn-primary"} `}>Finalizar compra</button>
             </form>
         </div>
     );
-}
+})
 
 

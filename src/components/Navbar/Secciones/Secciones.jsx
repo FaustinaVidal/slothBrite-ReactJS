@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 //Context
 import { useDarkModeContext } from '../../../context/DarkModeContext';
 
-export const Secciones = () => {
+export const Secciones = React.memo(() => {
     const {darkMode} = useDarkModeContext()
     return (
         <>
@@ -31,4 +31,4 @@ export const Secciones = () => {
             </li>
         </>
     );
-}
+})

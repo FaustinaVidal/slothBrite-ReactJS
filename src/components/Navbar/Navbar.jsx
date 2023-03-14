@@ -8,7 +8,7 @@ import { ButtonDarkMode } from './ButtonDarkMode/ButtonDarkMode';
 //Context
 import { useDarkModeContext } from '../../context/DarkModeContext';
 
-export const Navbar = () => {
+export const Navbar = React.memo(() => {
   const {darkMode} = useDarkModeContext()
   return (
     <nav className={`navbar navbar-expand-lg navbar-dark ${darkMode ? "bg-dark" : "bg-primary"}`}>
@@ -30,5 +30,5 @@ export const Navbar = () => {
       </div>
     </nav>
   );
-}
+})
 

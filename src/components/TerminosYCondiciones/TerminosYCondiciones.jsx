@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const TerminosYCondiciones = () => {
+export const TerminosYCondiciones = React.memo(() => {
     return (
         <div>
             <h2>Términos y condiciones</h2>
@@ -10,5 +10,5 @@ export const TerminosYCondiciones = () => {
             </p><p>Las nuevas funciones o herramientas que se agreguen a la tienda actual también estarán sujetas a los Términos del servicio. Puede revisar la versión más reciente de los Términos del servicio en cualquier momento en esta página. Nos reservamos el derecho de actualizar, cambiar o reemplazar cualquier parte de los presentes Términos del servicio mediante la publicación de actualizaciones o cambios en nuestra página web. Es su responsabilidad revisar esta página periódicamente para ver los cambios. Su uso de la página web o el acceso a ella de forma continuada después de la publicación de cualquier cambio constituye la aceptación de dichos cambios.Nuestra tienda está alojada en Shopify Inc. Nos proporcionan la plataforma de comercio electrónico en línea que nos permite venderle nuestros productos y servicios.</p>
         </div >
     );
-}
+})
 
