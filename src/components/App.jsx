@@ -5,6 +5,9 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 //Context
 import { DarkModeProvider } from '../context/DarkModeContext'
+//Firebase
+import { cargarBDD } from '../utils/firebase';
+import {getProductos} from '../utils/firebase'
 //Toastify
 import { ToastContainer } from 'react-toastify';
 
@@ -18,6 +21,8 @@ import { TerminosYCondiciones } from './TerminosYCondiciones/TerminosYCondicione
 import { Cart } from './Cart/Cart';
 
 export const App = () => {
+  getProductos()
+  //cargarBDD()
   return (
     <>
       <BrowserRouter>
