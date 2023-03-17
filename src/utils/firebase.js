@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore, collection, doc, addDoc, getDocs, getDoc, updateDoc, deleteDoc } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA120NV7h5UuE_Lwp3l-VIeWt4cnaF8Nfc",
+  apiKey: process.env.API_KEY,
   authDomain: "slothbrite-faustinavidal.firebaseapp.com",
   projectId: "slothbrite-faustinavidal",
   storageBucket: "slothbrite-faustinavidal.appspot.com",
