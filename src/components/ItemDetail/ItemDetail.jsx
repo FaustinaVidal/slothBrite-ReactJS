@@ -24,10 +24,10 @@ export const ItemDetail = ({ prod }) => {
                 <div className="cardBody">
                     <h5 className="card-title">{prod.nombre}</h5>
                     <p className="card-text">Modelo: {prod.modelo}</p>
-                    <p className="card-text">Precio: ${prod.precio}</p>
+                    <p className="card-text">Precio: ${new Intl.NumberFormat('de-DE').format(prod.precio)}</p>
                     <p className="card-text">Stock: {prod.stock}</p>
-                    <ItemCount valorInicial={1} stock={prod.stock} onAdd={onAdd}/>
-                    <Link className='nav-link' to={'/cart'}><button className={`btn ${darkMode ? "btn-secondary" : "btn-primary"} `}>Finalizar Compra</button></Link> 
+                    <ItemCount valorInicial={1} stock={prod.stock} onAdd={onAdd} textoBoton={"Agregar al carrito"} />
+                    <Link className='nav-link' to={'/cart'}><button className={`btn ${darkMode ? "btn-secondary" : "btn-primary"} btns`}>Finalizar Compra</button></Link> 
                 </div>
             </div>
         </div>

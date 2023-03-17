@@ -35,7 +35,7 @@ export const Contacto = React.memo(() => {
                     <label htmlFor="mensaje" className='form-label'>Mensaje</label>
                     <input type="text" className='form-control' name='mensaje' required/>
                 </div>
-                <button type='submit' className={`btn ${darkMode ? "btn-secondary" : "btn-primary"} `}>Finalizar compra</button>
+                <button type='submit' className={`btn ${darkMode ? "btn-secondary" : "btn-primary"} `}>Enviar</button>
             </form>
         </div>
     );

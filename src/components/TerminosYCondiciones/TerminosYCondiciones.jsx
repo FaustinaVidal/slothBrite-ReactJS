@@ -2,7 +2,7 @@ import React from 'react';
 
 export const TerminosYCondiciones = React.memo(() => {
     return (
-        <div>
+        <div className='textMargin'>
             <h2>Términos y condiciones</h2>
             <h4>GENERALIDADES</h4>
             <p>Craneo / Sloth Brite gestiona este sitio web. En todo el sitio, los términos "nosotros", "nos" y "nuestro" se refieren en lo sucesivo a Craneo / Sloth Brite. Craneo / Sloth Brite ofrece esta página web, incluida toda la información, las herramientas y los servicios que se ponen en este sitio a disposición suya, el usuario, siempre y cuando acepte la totalidad de los términos, condiciones, políticas y avisos contemplados aquí.</p>

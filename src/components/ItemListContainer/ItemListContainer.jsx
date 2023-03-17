@@ -12,13 +12,13 @@ export const ItemListContainer = () => {
     useEffect( () => {
         if (categoria) {
             getProductos().then(products => {
-                const prods = products.filter(prod => prod.categoria === categoria)
+                const prods = products.filter(prod => prod.stock > 0).filter(prod => prod.categoria === categoria)
                 const items = <ItemList prods={prods} plantilla="Item"/>
                 setProductos(items)
             })
         } else {
-            getProductos().then(prods => {
-                console.log(prods)
+            getProductos().then(products => {
+                const prods = products.filter(prod => prod.stock > 0)
                 const items = <ItemList prods={prods} plantilla="Item"/>
                 setProductos(items)
             })

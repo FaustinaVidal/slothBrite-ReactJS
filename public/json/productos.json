@@ -6,8 +6,7 @@
         "modelo": "Gorro",
         "precio": 626.53,
         "stock": 15,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroVioleta.png?alt=media&token=d163d52d-d07b-4123-a971-fe62e8193d8b",
-        "imgDetras": ""
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroVioleta.png?alt=media&token=d163d52d-d07b-4123-a971-fe62e8193d8b"
     },
     {
         "id": 2,
@@ -16,8 +15,7 @@
         "modelo": "Gorro",
         "precio": 626.53,
         "stock": 0,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroGris.png?alt=media&token=84298def-afba-4711-883f-c69f39b15c07",
-        "imgDetras": ""
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroGris.png?alt=media&token=84298def-afba-4711-883f-c69f39b15c07"
     }, 
     {
         "id": 3,
@@ -26,8 +24,7 @@
         "modelo": "Gorro",
         "precio": 626.53,
         "stock": 0,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroNegro.png?alt=media&token=a1a9a1aa-d8d7-4d04-8ed9-3fed689ef3bf",
-        "imgDetras": ""
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoGorroNegro.png?alt=media&token=a1a9a1aa-d8d7-4d04-8ed9-3fed689ef3bf"
     },
     {
         "id": 4,
@@ -36,8 +33,7 @@
         "modelo": "Remera",
         "precio": 835.51,
         "stock": 6,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraNegraDelante.png?alt=media&token=79166a3d-5e49-41cf-a9a1-e612d851e58a",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraNegraDetras.png?alt=media&token=48d7654f-abb5-4538-9eb6-b294beb6a249"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraNegraDelante.png?alt=media&token=79166a3d-5e49-41cf-a9a1-e612d851e58a"
     },
     {
         "id": 5,
@@ -46,8 +42,7 @@
         "modelo": "Remera",
         "precio": 835.15,
         "stock": 10,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraBlancaDelante.png?alt=media&token=d93ffd26-587b-41f2-bd11-97c3f3822eb5",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraBlancaDetras.png?alt=media&token=cd0acb44-1410-4d37-b3c4-3d28c000b026"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraBlancaDelante.png?alt=media&token=d93ffd26-587b-41f2-bd11-97c3f3822eb5"
     },
     {
         "id": 6,
@@ -56,8 +51,7 @@
         "modelo": "Remera",
         "precio": 835.51,
         "stock": 23,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteRemeraNegraDelante.png?alt=media&token=d56560c5-c547-43fd-8ac8-51238045920c",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteRemeraNegraDetras.png?alt=media&token=e30487ad-1c60-4a04-b0a9-8f05d897a307"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteRemeraNegraDelante.png?alt=media&token=d56560c5-c547-43fd-8ac8-51238045920c"
     },
     {
         "id": 7,
@@ -66,8 +60,7 @@
         "modelo": "Remera",
         "precio": 835.51,
         "stock": 4,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraVioletaDelante.png?alt=media&token=6e0a1025-74f5-4ce3-9f5d-811ad280a871",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraVioletaDetras.png?alt=media&token=1eedac4c-f714-476e-a795-a05245c75eba"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraVioletaDelante.png?alt=media&token=6e0a1025-74f5-4ce3-9f5d-811ad280a871"
     },
     {
         "id": 8,
@@ -76,8 +69,7 @@
         "modelo": "Remera",
         "precio": 835.51,
         "stock": 16,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraNegraDelante.png?alt=media&token=5a440e78-164c-403a-8fd0-f0d975f97d37",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraNegraDetras.png?alt=media&token=36d08020-f1f0-4464-91fa-8ea9fa0caf20"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteRemeraNegraDelante.png?alt=media&token=5a440e78-164c-403a-8fd0-f0d975f97d37"
     },
     {
         "id": 9,
@@ -86,8 +78,7 @@
         "modelo": "Remera",
         "precio": 1044.49,
         "stock": 35,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraWizardDelante.png?alt=media&token=b20bdde3-31d7-4bb8-8808-dd11fedd0220",
-        "imgDetras": ""
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoRemeraWizardDelante.png?alt=media&token=b20bdde3-31d7-4bb8-8808-dd11fedd0220"
     },
     {
         "id": 10,
@@ -96,8 +87,7 @@
         "modelo": "Canguro",
         "precio": 1880.41,
         "stock": 3,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroWizardDelante.png?alt=media&token=92a214cc-1fd1-4c18-bf3a-ae9a029e4e70",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroWizardDetras.png?alt=media&token=058fce0d-a678-44ed-8591-7823cc1c3516"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroWizardDelante.png?alt=media&token=92a214cc-1fd1-4c18-bf3a-ae9a029e4e70"
     },
     {
         "id": 11,
@@ -106,8 +96,7 @@
         "modelo": "Canguro",
         "precio": 1671.44,
         "stock": 18,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroNegroDelante.png?alt=media&token=f8dd6a93-3f16-44b3-85be-479ae01ceae9",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroNegroDetras.png?alt=media&token=9d54a861-976c-42ef-86b6-98864a6e322c"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroNegroDelante.png?alt=media&token=f8dd6a93-3f16-44b3-85be-479ae01ceae9"
     },
     {
         "id": 12,
@@ -116,8 +105,7 @@
         "modelo": "Canguro",
         "precio": 1671.44,
         "stock": 2,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroGrisDelante.png?alt=media&token=e886aa0d-3e5d-4a94-bd94-c9e92680ac0c",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroGrisDetras.png?alt=media&token=c5ff308b-17cb-4c5c-b67e-8ae85bb8e6d8"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCanguroGrisDelante.png?alt=media&token=e886aa0d-3e5d-4a94-bd94-c9e92680ac0c"
     },
     {
         "id": 13,
@@ -126,8 +114,7 @@
         "modelo": "Canguro",
         "precio": 1671.44,
         "stock": 9,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteCanguroNegroDelante.png?alt=media&token=50013dc7-20cb-4cd9-a663-85689fc056ab",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteCanguroNegroDetras.png?alt=media&token=c3fd679d-50de-4898-9d2d-6311602c831e"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/perezosoBrillanteCanguroNegroDelante.png?alt=media&token=50013dc7-20cb-4cd9-a663-85689fc056ab"
     },
     {
         "id": 14,
@@ -136,8 +123,7 @@
         "modelo": "Canguro",
         "precio": 1671.44,
         "stock": 8,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroNegroDelante.png?alt=media&token=7b7a4a03-2151-45bf-b1c2-0483c3f29474",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroNegroDetras.png?alt=media&token=74888afa-9192-4a27-9edf-a460975846d9"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroNegroDelante.png?alt=media&token=7b7a4a03-2151-45bf-b1c2-0483c3f29474"
     },
     {
         "id": 15,
@@ -146,8 +132,7 @@
         "modelo": "Canguro",
         "precio": 1671.44,
         "stock": 13,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroGrisDelante.png?alt=media&token=a040b152-13b7-4e0e-b3b1-1b77f1c4962e",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroGrisDetras.png?alt=media&token=5bed1481-eb17-49fc-970b-eb1b0aadc49d"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/slothBriteCanguroGrisDelante.png?alt=media&token=a040b152-13b7-4e0e-b3b1-1b77f1c4962e"
     },
     {
         "id": 16,
@@ -156,8 +141,7 @@
         "modelo": "Campera",
         "precio": 1671.44,
         "stock": 12,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaNegraDelante.png?alt=media&token=c4033c0a-488c-4967-ba7b-8eda19f14280",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaNegraDetras.png?alt=media&token=5f058aa9-eac7-4c29-8c44-1b8704e08106"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaNegraDelante.png?alt=media&token=c4033c0a-488c-4967-ba7b-8eda19f14280"
     },
     {
         "id": 17,
@@ -166,7 +150,6 @@
         "modelo": "Campera",
         "precio": 1671.44,
         "stock": 8,
-        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaBlancaDelante.png?alt=media&token=d51abe2e-5aff-4d98-a982-193c16c195f4",
-        "imgDetras": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaBlancaDetras.png?alt=media&token=7ab99e92-a547-48f1-887a-92503e63997e"
+        "imgDelante": "https://firebasestorage.googleapis.com/v0/b/slothbrite-faustinavidal.appspot.com/o/craneoCamperaBlancaDelante.png?alt=media&token=d51abe2e-5aff-4d98-a982-193c16c195f4"
     }
 ]
